@@ -1,4 +1,4 @@
-# Local Subtitles（試作）
+# Local Subtitles
 
 Macで再生している音声を取得し、端末内で文字起こし・日本語翻訳する字幕アプリです。Apple Silicon、macOS 15以降向けです。
 
